@@ -10,5 +10,4 @@
 <li>What is an UUID</li>
 <li>What is *args and how to use it</li>
 <li>What is **kwargs and how to use it</li>
-<li>How to handle named arguments in a function</li>
 </ul>
