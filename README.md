@@ -9,5 +9,5 @@
 <li>What is an UUID</li>
 <li>What is *args and how to use it</li>
 <li>What is **kwargs and how to use it</li>
-  <li>replace the file storage by a Database storage</li>
+<li>How to create a command interpreter in Python using the cmd module</li>
 </ul>
