@@ -3,7 +3,6 @@
 <ul>
 <li>How to create a Python package</li>
 <li>What is Unit testing and how to implement it in a large project</li>
-<li>How to serialize and deserialize a Class</li>
 <li>How to manage datetime</li>
 <li>What is an UUID</li>
 <li>What is *args and how to use it</li>
