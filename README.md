@@ -2,6 +2,7 @@
 <h2>Learning Objectives</h2>
 <ul>
 <li>How to create a Python package</li>
+<li>How to serialize and deserialize a Class</li>
 <li>What is Unit testing and how to implement it in a large project</li>
 <li>How to manage datetime</li>
 <li>What is an UUID</li>
