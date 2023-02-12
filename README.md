@@ -9,5 +9,5 @@
 <li>What is *args and how to use it</li>
 <li>What is **kwargs and how to use it</li>
 <li>How to create a command interpreter in Python using the cmd module</li>
+<li>How to write and read a JSON file</li>
 </ul>
-map your models to a table in database by using an O.R.M.
